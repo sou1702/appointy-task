@@ -1,0 +1,113 @@
+*{
+	margin:0;
+	padding: 0;
+	font-family: Century Gothic;
+}
+
+header{
+	background-image: url(../1.png);
+	height: 105vh;
+	background-size: cover;
+	background-position: right;
+}
+ul{
+	float: right;
+	margin-top: 0px;
+}
+
+ul li{
+	display: inline-block;
+}
+ul li c{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 10px;
+	border: 1px solid #A9A9A9;
+	border-radius: 25px;
+    background: #ff66b3
+
+}
+ul{
+	float: right;
+	margin-top: 0px;
+}
+
+ul li{
+	display: oval;
+}
+ul li a{
+	text-decoration: none;
+	color: #A9A9A9;
+	padding: 5px 10px;
+	border: 1px solid #fff;
+}
+
+ .logo img{
+ 	float: left;
+ 	width: 150px;
+ 	height: auto;
+}
+.main{
+	max-width: 1200px;
+	margin: auto;
+}
+.title{
+	position: absolute;
+	top: 40%;
+	left: 40%;
+	transform: translate(-60%, -40%);
+
+}
+
+
+.title h1{
+	color: #000000;
+	font-size: 28px; font
+
+}
+.button{
+	position: absolute;
+	top: 75%;
+	left: 18%;
+	transform: translate(-60%, -40%);
+	
+
+}
+.btn{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 10px;
+	border: 1px solid #A9A9A9;
+	border-radius: 25px;
+    background: #ff66b3
+}
+
+.titlemini{
+	position: absolute;
+	top: 60%;
+	left: 40%;
+	transform: translate(-70%, -40%);
+
+}
+
+
+.titlemini h3{
+	color: #A9A9A9;
+	font-size: 15px; 
+
+}
+
+.titlemini1{
+	position: absolute;
+	top: 80%;
+	left: 26%;
+	transform: translate(-60%, -40%);
+
+}
+
+
+.titlemini1 h4{
+	color: #A9A9A9;
+	font-size: 12px; 
+
+}
